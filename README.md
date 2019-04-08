@@ -9,15 +9,15 @@ We use IMDB, Amazon,yelp Dateset for sentiment analysis
 
 
 
-In NLP(working file contain)
+## In NLP(working file contain)
 
-How to Load spacy
+### How to Load spacy
 
-install spacy
+### install spacy
 
-how to find NER(Name Entity Recognization)
+### how to find NER(Name Entity Recognization)
 
-How to add column in new df
+### How to add column in new df
 
 how to save csv
 

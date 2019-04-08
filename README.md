@@ -19,37 +19,37 @@ We use IMDB, Amazon,yelp Dateset for sentiment analysis
 
 ### How to add column in new df
 
-how to save csv
+### how to save csv
 
-Emoji Sentiment Analysis
+### Emoji Sentiment Analysis
 
-How to convert large text into sentence using spacy
+### How to convert large text into sentence using spacy
 
-sentiment Analysis
+### sentiment Analysis
 
-Text Summerasation using spacy
+### Text Summerasation using spacy
 
-How to convert paragraph to sentence
+### How to convert paragraph to sentence
 
-Clean text before feeding it to Spacy
+### Clean text before feeding it to Spacy
 
-Second Approach for text summeration
+### Second Approach for text summeration
 
-NLTK and Spacy Tokinizer with Example
+### NLTK and Spacy Tokinizer with Example
 
-Token, Span, Doc and Lexeme
+### Token, Span, Doc and Lexeme
 
-:baigram and n-gram
+### baigram and n-gram
 
-Another Way of Sentiment using ML
+### Another Way of Sentiment using ML
 
 
-On top of spacy ---
+### On top of spacy ---
 
-textacy (Library)
+## textacy (Library)
 
-	Analyze the Doc ( Remove stop,punctuation,number from Doc)
+	* Analyze the Doc ( Remove stop,punctuation,number from Doc)
 	
-	Key_Term_weight_of_word
+	* Key_Term_weight_of_word
 	
-	make a corpus
+	* make a corpus
